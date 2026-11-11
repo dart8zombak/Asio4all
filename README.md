@@ -223,4 +223,4 @@ ASIO4ALL is available as a completely free version, with all features and update
 Download ASIO4ALL now and elevate your audio experience to new heights! Enjoy seamless audio performance with the official ASIO4ALL free download for Windows.
 
 ---
-**Last updated:** 2026-11-10 23:52:40 UTC
+**Last updated:** 2026-11-11 04:26:08 UTC
